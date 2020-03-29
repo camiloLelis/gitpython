@@ -1,2 +1,3 @@
 import os
-os.system('ls')
+c=os.system('ls')
+print (c)
